@@ -169,11 +169,28 @@
 
 .yellow{
   height: 1200px;
-  background-color: gold;
+  background-color: brown;
   font-size: 50px;
   font-weight: bold;
 }
 
+.purple{
+  height: 700px;
+  background-color: purple;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.blue{
+  height: 1200px;
+  background-color: mediumblue;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.feher{
+  color: black;
+}
 
 .content {
   padding: 20px;
